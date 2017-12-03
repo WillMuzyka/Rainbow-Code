@@ -31,3 +31,4 @@
 * Stripes clock, by Boguz: https://boguz.github.io/stripeclock/
 * Clock with text at the edge of lines. https://www.openprocessing.org/sketch/461595
 * Ignazioc: [Text clock](https://alpha.editor.p5js.org/ignazioc/sketches/B1bPjAfef)
+* Muzyka: [Particle Clock](https://www.openprocessing.org/sketch/482902)
